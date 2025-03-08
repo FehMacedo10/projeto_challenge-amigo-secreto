@@ -1,6 +1,6 @@
 # 🎲 Amigo Secreto
 
-![Banner do Projeto](https://img.shields.io/badge/Amigo%20Secreto-1.0.0-3674b5?style=for-the-badge&logo=gift&logoColor=white)
+![<a href="https://projeto-challenge-amigo-secreto.vercel.app/" target="_blank">Banner do Projeto</a>](https://img.shields.io/badge/Amigo%20Secreto-1.0.0-3674b5?style=for-the-badge&logo=gift&logoColor=white)
 
 <div align="center">
   
