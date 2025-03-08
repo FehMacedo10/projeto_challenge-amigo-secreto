@@ -1,5 +1,5 @@
 :root {
-  --color-primary: #8b5cf6;
+  --color-primary: #3674b5;
   --color-secondary: #ffffff;
   --color-accent: #f43f5e;
   --color-text: #1f2937;
@@ -50,7 +50,7 @@ body {
 }
 
 .header-banner {
-  background: linear-gradient(135deg, var(--color-primary), #a78bfa);
+  background: linear-gradient(135deg, var(--color-primary), #3674b5);
   padding: 3.5rem 2rem;
   text-align: center;
   position: relative;
@@ -134,7 +134,7 @@ body {
 }
 
 .button-add:hover {
-  background: #7c3aed;
+  background: #578fca;
   transform: translateY(-2px);
   box-shadow: 0 4px 6px rgba(139, 92, 246, 0.3);
 }
