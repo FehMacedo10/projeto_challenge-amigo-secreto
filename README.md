@@ -7,13 +7,11 @@
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-[![Licença: MIT](https://img.shields.io/badge/Licença-MIT-f43f5e.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 </div>
 
 <p align="center">
-  <img src="![Captura de tela 2025-03-08 124101](https://github.com/user-attachments/assets/73055384-1121-4828-886f-29da6f06077d)
-" alt="Screenshot do Amigo Secreto" width="600px">
+  <img src="./assets/Captura de tela 2025-03-08 124101.png" alt="Screenshot do Amigo Secreto" width="600px">
 </p>
 
 ## 📋 Sobre o Projeto
@@ -34,11 +32,13 @@
 ### 📦 Instalação
 
 1. Clone este repositório:
+
    ```bash
    git clone https://github.com/seu-usuario/amigo-secreto.git
    ```
 
 2. Navegue até a pasta do projeto:
+
    ```bash
    cd amigo-secreto
    ```
@@ -85,6 +85,7 @@ O projeto utiliza uma paleta de cores moderna e agradável:
 - **Texto**: `#1f2937` - Cinza escuro
 
 Fontes:
+
 - **Títulos**: Merriweather (700, 900)
 - **Texto**: Inter (400, 600, 700)
 
@@ -98,6 +99,7 @@ Fontes:
 ## 📱 Responsividade
 
 A aplicação é totalmente responsiva e se adapta a diferentes tamanhos de tela:
+
 - **Desktop**: Layout completo com amplo espaçamento
 - **Mobile**: Layout em coluna com controles adaptados para toque
 
